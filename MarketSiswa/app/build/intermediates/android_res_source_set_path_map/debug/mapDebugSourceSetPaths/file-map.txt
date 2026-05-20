@@ -1,0 +1,7 @@
+com.example.marketsiswa.app-pngs-0 D:\My Collage\Semester 6\PPB\MarketSiswa\app\build\generated\res\pngs\debug
+com.example.marketsiswa.app-updated_navigation_xml-1 D:\My Collage\Semester 6\PPB\MarketSiswa\app\build\generated\updated_navigation_xml\debug
+com.example.marketsiswa.app-packageDebugResources-2 D:\My Collage\Semester 6\PPB\MarketSiswa\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.marketsiswa.app-packageDebugResources-3 D:\My Collage\Semester 6\PPB\MarketSiswa\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.marketsiswa.app-debug-4 D:\My Collage\Semester 6\PPB\MarketSiswa\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.marketsiswa.app-debug-5 D:\My Collage\Semester 6\PPB\MarketSiswa\app\src\debug\res
+com.example.marketsiswa.app-main-6 D:\My Collage\Semester 6\PPB\MarketSiswa\app\src\main\res
